@@ -32,9 +32,9 @@
 ## 🚀 About Me
 
 <!-- Female programmer GIF -->
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd5c2hvM2w5ZXp4eGE4bHhrcGM2cmxwb3c4dTYxZTY3b2d3bm5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd5c2hvM2w5ZXp4eGE4bHhrcGM2cmxwb3c4dTYxZTY3b2d3bm5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 
-Recent **ECE graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
+Recent **Masters graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
 
 - 🔧 **Tech Stack:** React, Next.js, Node.js, TypeScript, Java
 - 🎯 **Focus:** Full-stack development with emphasis on user experience
