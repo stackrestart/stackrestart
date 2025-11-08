@@ -32,7 +32,7 @@
 ## 🚀 About Me
 
 <!-- Female programmer GIF -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHFnZGF6djhycGFrOWUwbTJhYTliaTFkdXIxcGcxOGF4OXlpNHJ6biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd5c2hvM2w5ZXp4eGE4bHhrcGM2cmxwb3c4dTYxZTY3b2d3bm5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 
 Recent **ECE graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
 
